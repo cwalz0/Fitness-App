@@ -4,9 +4,6 @@ __pycache__/
 *.pyc
 *.pyo
 
-# Data folder
-data/*
-!data/.gitkeep
 
 *.code-workspace
 
