@@ -1,15 +1,13 @@
-# Python virtual environment
 env/
 
-# Python bytecode
 __pycache__/
 *.pyc
 *.pyo
 
-# Data folder (if it contains user-generated or dynamic content)
-data/
+# Data folder
+data/*
+!data/.gitkeep
 
-# Editor/Workspace files
 *.code-workspace
 
 # macOS system files
