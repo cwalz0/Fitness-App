@@ -1,0 +1,11 @@
+
+
+__pycache__/
+*.pyc
+*.pyo
+
+
+*.code-workspace
+
+# macOS system files
+.DS_Store
